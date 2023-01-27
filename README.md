@@ -1,33 +1,24 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DE6800&size=35&center=true&vCenter=true&width=1000&lines=+Sistema+de+Acompanhamento+do+Resilia+-+SAR+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Paprika&size=35&pause=1000&color=F73204&vCenter=true&width=850&height=100&lines=Sistema+de+Acompanhamento+do+Resilia+-+SAR)](https://git.io/typing-svg)
 
-Projeto Individual do Módulo 4 do Curso Programadores Carioca - SENAC/Resilia
+<p>Projeto Individual do Módulo 4 do Curso Programadores Carioca - SENAC/Resilia</p>
 
 <h2>Sobre o projeto:</h2>
-Existem outras entidades além dessas três?
 
-```sh
+<h3>Existem outras entidades além dessas três?</h3>
+<ul>
+Sim, considerando o modelo e sistema da instituição, além das entidades CURSOS, TURMAS e ALUNOS que foram solicitadas, foi preciso adicionar mais 4 entidades, sendo elas:
+  <li>Facilitador Soft</li>
+  <li>Facilitador Hard</li>
+  <li>Monitor</li>
+  <li>Matrícula</li>
+</ul>
 
-Sim, considerando o modelo e sistema da instituição de ensino, além das entidades que foram solicitadas (curso, turmas e alunos), foi necessário adicionar mais 4 entidades, sendo elas:
-1. Facilitador Soft
-2. Facilitador Hard
-3. Monitor
-4. Matrícula
-
-```
-
-Quais são os principais campos e tipos?
-
-```sh
+<h3>Quais são os principais campos e tipos?</h3>
 
 Os principais campos são os ID de cada entidade (as chaves primárias). A maioria dos campos são INT. 
 
-```
 
-Como essas entidades estão relacionadas?
+<h3>Como essas entidades estão relacionadas?</h3>
 
-```sh
+Dentro da modelagem desenvolvida, elas estão em um relacionamento de 1:n.
 
-Dentro da modelagem desenvolvida, temos relacionamentos que são binários e ternários. Por exemplo, o relacionamento Cursos-Turmas é um conjunto de relacionamentos binários, ou seja, ele envolve dois conjuntos de entidades. 
-A maioria dos conjuntos de relacionamentos neste sistema de banco de dados é binária. Porém, existem conjuntos de relacionamentos que envolvem mais de dois conjuntos de entidades, como o relacionamento entre Turmas-Matrícula-Alunos. 
-
-```
