@@ -4,6 +4,9 @@
 
 <h2>Sobre o projeto:</h2>
 
+<h3>Contexto:</h3>
+A Resilia está pensando em lançar um novo sistema de acompanhamento e para isso precisa de ajuda para modelar um banco de dados que vai armazenar seus cursos, turmas e alunos.
+
 <h3>Existem outras entidades além dessas três?</h3>
 <ul>
 Sim, considerando o modelo e sistema da instituição, além das entidades CURSOS, TURMAS e ALUNOS que foram solicitadas, foi preciso adicionar mais 4 entidades, sendo elas:
