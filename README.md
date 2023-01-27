@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Paprika&size=35&pause=1000&color=F73204&vCenter=true&width=850&height=100&lines=Sistema+de+Acompanhamento+do+Resilia+-+SAR)](https://git.io/typing-svg)
 
+![Screenshot](pamm-SAM.png)
+
 <p>Projeto Individual do Módulo 4 do Curso Programadores Carioca - SENAC/Resilia</p>
 
 <h2>Sobre o projeto:</h2>
